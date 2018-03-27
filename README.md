@@ -3,12 +3,12 @@
 
 ## Table of Contents
 
-- [Introduction](introduction)
-- [Dataset](dataset)
-- [Process](process)
-- [Results](results)
-- [Lessons Learned](lessons-learned)
-- [Resources](resources)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Process](#process)
+- [Results](#results)
+- [Lessons Learned](#lessons-learned)
+- [Resources](#resources)
 
 
 ## Introduction

@@ -25,7 +25,7 @@ Rotten Tomatoes has become one of the go-to places to help determine if a movie 
 - Films in limited release must have a minimum of 40 reviews.
 - Only individual seasons of a TV show are eligible, and each must have a minimum of 20 reviews.  
 
-####Audience Score
+#### Audience Score
 - Full popcorn bucket - 3.5 stars or higher
 - Tipped over popcorn buck - Less than 3.5 starts
 - Plus sign for movies that do not have audience ratings

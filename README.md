@@ -20,11 +20,11 @@ Rotten Tomatoes has become one of the go-to places to help determine if a movie 
 - When at least 60% of reviews are positive, a red tomato is displayed to indicate its “Fresh” status.
 - Anything less than 60% and a green “splat” is displayed indicating its “Rotten” status.
 - Certified Fresh goes to movies/TV that meet certain strict requirements.
-- A steady Tomatometer score of 75% or higher.
-- At least five reviews from Top Critics.
-- Films in wide release must have a minimum of 80 reviews.
-- Films in limited release must have a minimum of 40 reviews.
-- Only individual seasons of a TV show are eligible, and each must have a minimum of 20 reviews.  
+	- A steady Tomatometer score of 75% or higher.
+	- At least five reviews from Top Critics.
+	- Films in wide release must have a minimum of 80 reviews.
+	- Films in limited release must have a minimum of 40 reviews.
+	- Only individual seasons of a TV show are eligible, and each must have a minimum of 20 reviews.  
 
 #### Audience Score
 - Full popcorn bucket - 3.5 stars or higher

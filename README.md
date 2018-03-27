@@ -5,10 +5,11 @@
 
 - [Introduction](introduction)
 - [Dataset](dataset)
-- [Project Planning](project-planning)
 - [Process](process)
 - [Results](results)
+- [Lessons Learned](lessons-learned)
 - [Resources](resources)
+
 
 ## Introduction
 For Project Five in my Data Science Immersive course, I chose to take on the [Kaggle](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) competition for sentiment analysis of movie reviews on Rotten Tomatoes.
